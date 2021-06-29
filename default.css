@@ -358,7 +358,7 @@ p {
 }
 
 #contact-form textarea {
-    min-height: 100px;
+    min-height: 10px;
     font-size: 14px;
 }
 
@@ -377,7 +377,7 @@ p {
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #fff;
+    color: skyblue;
     background-color: var(--buttonColor);
     border: none;
 }
