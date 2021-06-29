@@ -359,12 +359,14 @@
      
      @media screen and (max-width: 1200px) {
          .main-container {
+               justify-content: center;
              width: 95%;
          }
      }
      
      @media screen and (max-width: 800px) {
          .intro-wrapper {
+               justify-content: center;
              grid-template-columns: 1fr;
              grid-template-areas: 'nav-wrapper' 'left-column' 'right-column';
          }
